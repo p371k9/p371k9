@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p371k9
+- 👋 Hi, I’m @p371k9 (Péter)
 - 👀 I’m interested in Scrapy 
 - 🌱 I’m currently learning static site creation with HUGO
 - 💞️ I’m looking to collaborate on ...
