@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p371k9 (Péter)
-- 👀 I’m interested in Scrapy 
-- 🌱 I’m currently learning static site creation with HUGO
+- 👀 I’m interested in electronic data processing 
+- 🌱 I’m currently learning Scrapy
 
 <!---
 p371k9/p371k9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
